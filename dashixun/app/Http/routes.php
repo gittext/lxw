@@ -20,6 +20,8 @@ Route::get('slist','IndexController@slist');
 Route::get('delete','IndexController@delete');
 Route::get('update','IndexController@update');
 Route::get('upd','IndexController@upd');
+Route::get('ss','IndexController@ss');
+
 /*
 /*
 |--------------------------------------------------------------------------
